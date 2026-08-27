@@ -1,0 +1,14 @@
+Name
+Aakash Reddy
+
+Skills
+Python, LLM, Machine Learning, FastAPI, PyTorch, Docker
+
+Experience
+4 years of experience developing AI and machine learning applications.
+
+Education
+M.Tech Artificial Intelligence
+
+Projects
+Built LLM-powered applications and AI APIs.

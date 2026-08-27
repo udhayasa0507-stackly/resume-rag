@@ -1,0 +1,14 @@
+Name
+Rohit Gupta
+
+Skills
+AWS, Azure, Docker, Kubernetes, Terraform, Linux
+
+Experience
+8 years of experience in cloud infrastructure and DevOps.
+
+Education
+B.Tech Information Technology
+
+Projects
+Managed cloud infrastructure and Kubernetes clusters.

@@ -1,0 +1,14 @@
+Name
+Suresh Kumar
+
+Skills
+Python, FastAPI, Django, MySQL, Docker
+
+Experience
+3 years of experience developing Python backend APIs.
+
+Education
+B.E. Computer Science
+
+Projects
+Built REST APIs for business applications.

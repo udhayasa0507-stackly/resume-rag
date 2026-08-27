@@ -1,0 +1,14 @@
+Name
+Divya Menon
+
+Skills
+React, JavaScript, TypeScript, Node.js, PostgreSQL, AWS
+
+Experience
+5 years of experience building modern frontend and full stack applications.
+
+Education
+B.Tech Computer Science
+
+Projects
+Developed React applications and Node.js backend services.

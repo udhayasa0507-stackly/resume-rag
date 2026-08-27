@@ -1,0 +1,14 @@
+Name
+Swetha R
+
+Skills
+Python, FastAPI, PostgreSQL, AWS, Docker
+
+Experience
+6 years of experience developing backend APIs with Python.
+
+Education
+B.Tech Information Technology
+
+Projects
+Designed FastAPI services deployed on AWS.

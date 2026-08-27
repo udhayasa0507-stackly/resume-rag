@@ -1,0 +1,13 @@
+Data Scientist
+
+We are looking for a data scientist with 4+ years of experience.
+
+Must-have requirements:
+- Python
+- Pandas
+- NumPy
+- SQL
+- Machine Learning
+- Scikit-learn
+
+Experience with predictive analytics is preferred.

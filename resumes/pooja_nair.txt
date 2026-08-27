@@ -1,0 +1,14 @@
+Name
+Pooja Nair
+
+Skills
+Python, Data Science, Pandas, NumPy, SQL, Scikit-learn
+
+Experience
+6 years of experience working in data science and analytics.
+
+Education
+M.Sc. Data Science
+
+Projects
+Built predictive analytics and business intelligence solutions.

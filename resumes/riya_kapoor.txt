@@ -1,0 +1,14 @@
+Name
+Riya Kapoor
+
+Skills
+Python, Django, MySQL, REST APIs, Git
+
+Experience
+2 years of experience developing Python web applications.
+
+Education
+B.Tech Computer Science
+
+Projects
+Developed Django-based business applications.

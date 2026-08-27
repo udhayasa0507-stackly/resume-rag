@@ -1,0 +1,14 @@
+Name
+Karthik Raj
+
+Skills
+AWS, Docker, Kubernetes, Terraform, Linux, CI/CD, Git
+
+Experience
+6 years of experience working as a DevOps and cloud engineer.
+
+Education
+B.Tech Information Technology
+
+Projects
+Built CI/CD pipelines and managed Kubernetes infrastructure on AWS.

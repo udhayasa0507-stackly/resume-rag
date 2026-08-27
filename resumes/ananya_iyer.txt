@@ -1,0 +1,14 @@
+Name
+Ananya Iyer
+
+Skills
+Python, Pandas, NumPy, SQL, Machine Learning, Scikit-learn
+
+Experience
+4 years of experience in data science and predictive analytics.
+
+Education
+M.Sc. Data Science
+
+Projects
+Created predictive models and customer analytics dashboards.

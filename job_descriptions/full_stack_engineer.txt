@@ -1,0 +1,11 @@
+Full Stack Engineer
+
+We are looking for a full stack engineer with 4+ years of experience.
+
+Must-have requirements:
+- React
+- Node.js
+- JavaScript
+- PostgreSQL
+- Docker
+- AWS

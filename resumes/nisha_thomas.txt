@@ -1,0 +1,14 @@
+Name
+Nisha Thomas
+
+Skills
+JavaScript, React, Angular, TypeScript, Node.js
+
+Experience
+6 years of experience developing frontend and full stack applications.
+
+Education
+B.Tech Information Technology
+
+Projects
+Developed enterprise dashboards and web applications.

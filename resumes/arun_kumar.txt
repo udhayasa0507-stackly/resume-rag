@@ -1,0 +1,14 @@
+Name
+Arun Kumar
+
+Skills
+Python, Django, FastAPI, PostgreSQL, Docker, AWS, Git
+
+Experience
+6 years of experience developing backend applications and REST APIs using Python, Django and FastAPI.
+
+Education
+B.Tech in Computer Science
+
+Projects
+Built scalable REST APIs and deployed microservices on AWS.

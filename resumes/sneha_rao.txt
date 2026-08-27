@@ -1,0 +1,14 @@
+Name
+Sneha Rao
+
+Skills
+Python, Django, PostgreSQL, React, Docker
+
+Experience
+4 years of experience developing full stack web applications using Python and React.
+
+Education
+B.E. Computer Science
+
+Projects
+Built customer management applications using Django, React and PostgreSQL.

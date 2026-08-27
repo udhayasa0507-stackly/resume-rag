@@ -1,0 +1,14 @@
+Name
+Priya Sharma
+
+Skills
+Python, Machine Learning, TensorFlow, PyTorch, Pandas, NumPy, AWS
+
+Experience
+5 years of experience building machine learning models and production ML pipelines.
+
+Education
+M.Tech in Artificial Intelligence
+
+Projects
+Developed classification and prediction models using TensorFlow and PyTorch.

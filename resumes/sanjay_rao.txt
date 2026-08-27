@@ -1,0 +1,14 @@
+Name
+Sanjay Rao
+
+Skills
+Python, FastAPI, PostgreSQL, Redis, AWS
+
+Experience
+9 years of experience designing distributed backend systems.
+
+Education
+B.Tech Computer Science
+
+Projects
+Designed high-scale APIs and event-driven backend systems.

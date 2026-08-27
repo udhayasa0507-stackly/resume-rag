@@ -1,0 +1,14 @@
+Name
+Mohan Das
+
+Skills
+JavaScript, React, TypeScript, Node.js, MongoDB
+
+Experience
+3 years of experience developing full stack applications.
+
+Education
+B.Tech Computer Science
+
+Projects
+Built responsive web applications and APIs.

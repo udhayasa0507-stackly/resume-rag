@@ -1,0 +1,14 @@
+Name
+Sathish Kumar
+
+Skills
+Python, Django, FastAPI, PostgreSQL, Docker, AWS
+
+Experience
+5 years of experience developing Python backend applications.
+
+Education
+B.Tech Computer Science
+
+Projects
+Built REST APIs and deployed backend applications on AWS.

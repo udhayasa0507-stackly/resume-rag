@@ -1,0 +1,14 @@
+Name
+Manoj Kumar
+
+Skills
+Python, Flask, PostgreSQL, Docker, AWS
+
+Experience
+5 years of experience developing Python web applications and APIs.
+
+Education
+B.Tech Computer Science
+
+Projects
+Developed Flask APIs and cloud applications.

@@ -1,0 +1,14 @@
+Name
+Ganesh B
+
+Skills
+Docker, Kubernetes, AWS, Terraform, Linux, CI/CD
+
+Experience
+5 years of experience in DevOps and cloud automation.
+
+Education
+B.Tech Computer Science
+
+Projects
+Automated cloud deployments and Kubernetes infrastructure.

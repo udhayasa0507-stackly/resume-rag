@@ -1,0 +1,14 @@
+Name
+Keerthi Anand
+
+Skills
+Python, Machine Learning, LLM, FastAPI, NLP
+
+Experience
+5 years of experience developing natural language processing and AI applications.
+
+Education
+M.Tech Artificial Intelligence
+
+Projects
+Built NLP and LLM-powered applications.

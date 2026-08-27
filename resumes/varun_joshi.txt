@@ -1,0 +1,14 @@
+Name
+Varun Joshi
+
+Skills
+AWS, Docker, Kubernetes, Linux, Terraform
+
+Experience
+4 years of experience managing cloud infrastructure.
+
+Education
+B.Tech Information Technology
+
+Projects
+Managed AWS infrastructure and containerized deployments.

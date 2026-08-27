@@ -1,0 +1,14 @@
+Name
+Meera Krishnan
+
+Skills
+Python, PyTorch, Deep Learning, Machine Learning, NumPy
+
+Experience
+6 years of experience developing deep learning models and computer vision solutions.
+
+Education
+M.Tech Artificial Intelligence
+
+Projects
+Built deep learning image classification systems using PyTorch.

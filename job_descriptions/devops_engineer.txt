@@ -1,0 +1,13 @@
+DevOps Engineer
+
+We are looking for a DevOps engineer with 5+ years of experience.
+
+Must-have requirements:
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- Linux
+- CI/CD
+
+Experience with cloud automation is preferred.

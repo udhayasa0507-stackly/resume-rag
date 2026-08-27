@@ -1,0 +1,14 @@
+Name
+Lakshmi Devi
+
+Skills
+Python, Django, FastAPI, PostgreSQL, AWS, Docker
+
+Experience
+7 years of experience developing Python backend systems.
+
+Education
+B.E. Computer Science
+
+Projects
+Built scalable backend APIs and cloud-native applications.

@@ -1,0 +1,14 @@
+Name
+Rahul Verma
+
+Skills
+Java, Spring Boot, MySQL, Docker, Kubernetes, AWS
+
+Experience
+7 years of experience developing enterprise backend applications using Java and Spring Boot.
+
+Education
+B.Tech in Information Technology
+
+Projects
+Developed distributed enterprise services and containerized applications.

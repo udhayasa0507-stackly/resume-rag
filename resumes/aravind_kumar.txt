@@ -1,0 +1,14 @@
+Name
+Aravind Kumar
+
+Skills
+React, Node.js, JavaScript, MongoDB, Docker
+
+Experience
+4 years of experience developing full stack web applications.
+
+Education
+B.E. Computer Science
+
+Projects
+Developed scalable React and Node.js applications.

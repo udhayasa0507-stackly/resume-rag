@@ -1,0 +1,14 @@
+Name
+Tarun Mehta
+
+Skills
+Python, Java, SQL, Docker, AWS
+
+Experience
+4 years of experience developing backend and cloud applications.
+
+Education
+B.Tech Computer Science
+
+Projects
+Built backend services and cloud deployment solutions.

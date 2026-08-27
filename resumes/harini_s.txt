@@ -1,0 +1,14 @@
+Name
+Harini S
+
+Skills
+Python, Machine Learning, TensorFlow, Pandas, SQL
+
+Experience
+3 years of experience working on machine learning and data science projects.
+
+Education
+M.Sc. Data Science
+
+Projects
+Built machine learning models for customer prediction.

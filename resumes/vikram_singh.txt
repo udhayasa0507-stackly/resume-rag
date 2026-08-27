@@ -1,0 +1,14 @@
+Name
+Vikram Singh
+
+Skills
+Python, FastAPI, PostgreSQL, Redis, Docker, AWS
+
+Experience
+8 years of experience designing high-performance Python backend systems.
+
+Education
+B.Tech Computer Science
+
+Projects
+Designed scalable APIs and distributed backend services.

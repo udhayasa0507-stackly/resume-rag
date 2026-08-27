@@ -1,0 +1,14 @@
+Name
+Ishita Roy
+
+Skills
+Python, Pandas, NumPy, SQL, Machine Learning, Scikit-learn
+
+Experience
+5 years of experience in data science and predictive modeling.
+
+Education
+M.Sc. Data Science
+
+Projects
+Developed recommendation and prediction systems.

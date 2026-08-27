@@ -1,0 +1,14 @@
+Name
+Aditya Patel
+
+Skills
+Python, SQL, Pandas, NumPy, Machine Learning
+
+Experience
+5 years of experience in data analytics and machine learning.
+
+Education
+M.Sc. Statistics
+
+Projects
+Developed forecasting and customer segmentation models.

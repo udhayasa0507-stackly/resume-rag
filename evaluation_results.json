@@ -1,0 +1,930 @@
+[
+  {
+    "job_description": "AI Engineer\n\nWe are looking for an AI engineer with 3+ years of experience.\n\nMust-have requirements:\n- Python\n- Machine Learning\n- Deep Learning\n- PyTorch\n- LLM\n- FastAPI\n\nExperience building AI-powered applications is preferred.",
+    "top_matches": [
+      {
+        "candidate_name": "Aakash Reddy",
+        "resume_path": "resumes\\aakash_reddy.txt",
+        "match_score": 59.35,
+        "matched_skills": [
+          "python",
+          "fastapi",
+          "machine learning",
+          "pytorch"
+        ],
+        "relevant_excerpts": [
+          "4 years of experience developing AI and machine learning applications.",
+          "Built LLM-powered applications and AI APIs.",
+          "Python, LLM, Machine Learning, FastAPI, PyTorch, Docker"
+        ],
+        "reasoning": "Candidate has 4 years of experience against the required 3+ years and matched 4 of 6 required skills. Relevant resume sections: Experience, Projects, Skills."
+      },
+      {
+        "candidate_name": "Neha Singh",
+        "resume_path": "resumes\\neha_singh.txt",
+        "match_score": 58.91,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "deep learning",
+          "pytorch"
+        ],
+        "relevant_excerpts": [
+          "6 years of experience in artificial intelligence and deep learning.",
+          "Python, PyTorch, Machine Learning, Deep Learning, LLM",
+          "Developed deep learning and LLM-based AI solutions."
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 3+ years and matched 4 of 6 required skills. Relevant resume sections: Experience, Skills, Projects."
+      },
+      {
+        "candidate_name": "Deepa Joseph",
+        "resume_path": "resumes\\deepa_joseph.txt",
+        "match_score": 57.72,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "deep learning",
+          "pytorch"
+        ],
+        "relevant_excerpts": [
+          "7 years of experience in deep learning and artificial intelligence.",
+          "Python, TensorFlow, PyTorch, Deep Learning, Machine Learning",
+          "Ph.D. Artificial Intelligence"
+        ],
+        "reasoning": "Candidate has 7 years of experience against the required 3+ years and matched 4 of 6 required skills. Relevant resume sections: Experience, Skills, Education."
+      },
+      {
+        "candidate_name": "Meera Krishnan",
+        "resume_path": "resumes\\meera_krishnan.txt",
+        "match_score": 53.54,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "deep learning",
+          "pytorch"
+        ],
+        "relevant_excerpts": [
+          "Python, PyTorch, Deep Learning, Machine Learning, NumPy",
+          "6 years of experience developing deep learning models and computer vision solutions."
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 3+ years and matched 4 of 6 required skills. Relevant resume sections: Skills, Experience."
+      },
+      {
+        "candidate_name": "Priya Sharma",
+        "resume_path": "resumes\\priya_sharma.txt",
+        "match_score": 46.25,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "pytorch"
+        ],
+        "relevant_excerpts": [
+          "Python, Machine Learning, TensorFlow, PyTorch, Pandas, NumPy, AWS",
+          "M.Tech in Artificial Intelligence",
+          "5 years of experience building machine learning models and production ML pipelines."
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 3+ years and matched 3 of 6 required skills. Relevant resume sections: Skills, Education, Experience."
+      },
+      {
+        "candidate_name": "Keerthi Anand",
+        "resume_path": "resumes\\keerthi_anand.txt",
+        "match_score": 45.0,
+        "matched_skills": [
+          "python",
+          "fastapi",
+          "machine learning"
+        ],
+        "relevant_excerpts": [
+          "Python, Machine Learning, LLM, FastAPI, NLP",
+          "5 years of experience developing natural language processing and AI applications."
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 3+ years and matched 3 of 6 required skills. Relevant resume sections: Skills, Experience."
+      },
+      {
+        "candidate_name": "Harini S",
+        "resume_path": "resumes\\harini_s.txt",
+        "match_score": 43.16,
+        "matched_skills": [
+          "python",
+          "machine learning"
+        ],
+        "relevant_excerpts": [
+          "3 years of experience working on machine learning and data science projects.",
+          "Python, Machine Learning, TensorFlow, Pandas, SQL"
+        ],
+        "reasoning": "Candidate has 3 years of experience against the required 3+ years and matched 2 of 6 required skills. Relevant resume sections: Experience, Skills."
+      },
+      {
+        "candidate_name": "Aditya Patel",
+        "resume_path": "resumes\\aditya_patel.txt",
+        "match_score": 38.33,
+        "matched_skills": [
+          "python",
+          "machine learning"
+        ],
+        "relevant_excerpts": [
+          "5 years of experience in data analytics and machine learning."
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 3+ years and matched 2 of 6 required skills. Relevant resume sections: Experience."
+      },
+      {
+        "candidate_name": "Suresh Kumar",
+        "resume_path": "resumes\\suresh_kumar.txt",
+        "match_score": 38.33,
+        "matched_skills": [
+          "python",
+          "fastapi"
+        ],
+        "relevant_excerpts": [
+          "3 years of experience developing Python backend APIs."
+        ],
+        "reasoning": "Candidate has 3 years of experience against the required 3+ years and matched 2 of 6 required skills. Relevant resume sections: Experience."
+      },
+      {
+        "candidate_name": "Sathish Kumar",
+        "resume_path": "resumes\\sathish_kumar.txt",
+        "match_score": 38.33,
+        "matched_skills": [
+          "python",
+          "fastapi"
+        ],
+        "relevant_excerpts": [
+          "5 years of experience developing Python backend applications."
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 3+ years and matched 2 of 6 required skills. Relevant resume sections: Experience."
+      }
+    ],
+    "job_file": "ai_engineer.txt",
+    "latency_ms": 159.13
+  },
+  {
+    "job_description": "Data Scientist\n\nWe are looking for a data scientist with 4+ years of experience.\n\nMust-have requirements:\n- Python\n- Pandas\n- NumPy\n- SQL\n- Machine Learning\n- Scikit-learn\n\nExperience with predictive analytics is preferred.",
+    "top_matches": [
+      {
+        "candidate_name": "Ananya Iyer",
+        "resume_path": "resumes\\ananya_iyer.txt",
+        "match_score": 75.76,
+        "matched_skills": [
+          "python",
+          "sql",
+          "machine learning",
+          "scikit-learn",
+          "pandas",
+          "numpy"
+        ],
+        "relevant_excerpts": [
+          "4 years of experience in data science and predictive analytics.",
+          "Python, Pandas, NumPy, SQL, Machine Learning, Scikit-learn",
+          "M.Sc. Data Science"
+        ],
+        "reasoning": "Candidate has 4 years of experience against the required 4+ years and matched 6 of 6 required skills. Relevant resume sections: Experience, Skills, Education."
+      },
+      {
+        "candidate_name": "Ishita Roy",
+        "resume_path": "resumes\\ishita_roy.txt",
+        "match_score": 71.54,
+        "matched_skills": [
+          "python",
+          "sql",
+          "machine learning",
+          "scikit-learn",
+          "pandas",
+          "numpy"
+        ],
+        "relevant_excerpts": [
+          "Python, Pandas, NumPy, SQL, Machine Learning, Scikit-learn",
+          "5 years of experience in data science and predictive modeling.",
+          "M.Sc. Data Science"
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 4+ years and matched 6 of 6 required skills. Relevant resume sections: Skills, Experience, Education."
+      },
+      {
+        "candidate_name": "Pooja Nair",
+        "resume_path": "resumes\\pooja_nair.txt",
+        "match_score": 68.9,
+        "matched_skills": [
+          "python",
+          "sql",
+          "scikit-learn",
+          "pandas",
+          "numpy"
+        ],
+        "relevant_excerpts": [
+          "6 years of experience working in data science and analytics.",
+          "Python, Data Science, Pandas, NumPy, SQL, Scikit-learn",
+          "M.Sc. Data Science"
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 4+ years and matched 5 of 6 required skills. Relevant resume sections: Experience, Skills, Education."
+      },
+      {
+        "candidate_name": "Aditya Patel",
+        "resume_path": "resumes\\aditya_patel.txt",
+        "match_score": 64.92,
+        "matched_skills": [
+          "python",
+          "sql",
+          "machine learning",
+          "pandas",
+          "numpy"
+        ],
+        "relevant_excerpts": [
+          "5 years of experience in data analytics and machine learning.",
+          "Python, SQL, Pandas, NumPy, Machine Learning"
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 4+ years and matched 5 of 6 required skills. Relevant resume sections: Experience, Skills."
+      },
+      {
+        "candidate_name": "Priya Sharma",
+        "resume_path": "resumes\\priya_sharma.txt",
+        "match_score": 56.69,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "pandas",
+          "numpy"
+        ],
+        "relevant_excerpts": [
+          "Python, Machine Learning, TensorFlow, PyTorch, Pandas, NumPy, AWS"
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 4+ years and matched 4 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Meera Krishnan",
+        "resume_path": "resumes\\meera_krishnan.txt",
+        "match_score": 45.0,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "numpy"
+        ],
+        "relevant_excerpts": [
+          "Python, PyTorch, Deep Learning, Machine Learning, NumPy"
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 4+ years and matched 3 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Deepa Joseph",
+        "resume_path": "resumes\\deepa_joseph.txt",
+        "match_score": 38.33,
+        "matched_skills": [
+          "python",
+          "machine learning"
+        ],
+        "relevant_excerpts": [
+          "Python, TensorFlow, PyTorch, Deep Learning, Machine Learning"
+        ],
+        "reasoning": "Candidate has 7 years of experience against the required 4+ years and matched 2 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Neha Singh",
+        "resume_path": "resumes\\neha_singh.txt",
+        "match_score": 38.33,
+        "matched_skills": [
+          "python",
+          "machine learning"
+        ],
+        "relevant_excerpts": [
+          "Python, PyTorch, Machine Learning, Deep Learning, LLM",
+          "6 years of experience in artificial intelligence and deep learning."
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 4+ years and matched 2 of 6 required skills. Relevant resume sections: Skills, Experience."
+      },
+      {
+        "candidate_name": "Tarun Mehta",
+        "resume_path": "resumes\\tarun_mehta.txt",
+        "match_score": 38.33,
+        "matched_skills": [
+          "python",
+          "sql"
+        ],
+        "relevant_excerpts": [
+          "B.Tech Computer Science"
+        ],
+        "reasoning": "Candidate has 4 years of experience against the required 4+ years and matched 2 of 6 required skills. Relevant resume sections: Education."
+      }
+    ],
+    "job_file": "data_scientist.txt",
+    "latency_ms": 58.8
+  },
+  {
+    "job_description": "DevOps Engineer\n\nWe are looking for a DevOps engineer with 5+ years of experience.\n\nMust-have requirements:\n- AWS\n- Docker\n- Kubernetes\n- Terraform\n- Linux\n- CI/CD\n\nExperience with cloud automation is preferred.",
+    "top_matches": [
+      {
+        "candidate_name": "Karthik Raj",
+        "resume_path": "resumes\\karthik_raj.txt",
+        "match_score": 59.64,
+        "matched_skills": [
+          "aws",
+          "docker",
+          "kubernetes"
+        ],
+        "relevant_excerpts": [
+          "6 years of experience working as a DevOps and cloud engineer.",
+          "Built CI/CD pipelines and managed Kubernetes infrastructure on AWS.",
+          "AWS, Docker, Kubernetes, Terraform, Linux, CI/CD, Git"
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 5+ years and matched 3 of 6 required skills. Relevant resume sections: Experience, Projects, Skills."
+      },
+      {
+        "candidate_name": "Ganesh B",
+        "resume_path": "resumes\\ganesh_b.txt",
+        "match_score": 58.05,
+        "matched_skills": [
+          "aws",
+          "docker",
+          "kubernetes"
+        ],
+        "relevant_excerpts": [
+          "5 years of experience in DevOps and cloud automation.",
+          "Docker, Kubernetes, AWS, Terraform, Linux, CI/CD",
+          "Automated cloud deployments and Kubernetes infrastructure."
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 5+ years and matched 3 of 6 required skills. Relevant resume sections: Experience, Skills, Projects."
+      },
+      {
+        "candidate_name": "Rohit Gupta",
+        "resume_path": "resumes\\rohit_gupta.txt",
+        "match_score": 53.98,
+        "matched_skills": [
+          "aws",
+          "docker",
+          "kubernetes"
+        ],
+        "relevant_excerpts": [
+          "8 years of experience in cloud infrastructure and DevOps.",
+          "AWS, Azure, Docker, Kubernetes, Terraform, Linux",
+          "Managed cloud infrastructure and Kubernetes clusters."
+        ],
+        "reasoning": "Candidate has 8 years of experience against the required 5+ years and matched 3 of 6 required skills. Relevant resume sections: Experience, Skills, Projects."
+      },
+      {
+        "candidate_name": "Rahul Verma",
+        "resume_path": "resumes\\rahul_verma.txt",
+        "match_score": 35.0,
+        "matched_skills": [
+          "aws",
+          "docker",
+          "kubernetes"
+        ],
+        "relevant_excerpts": [
+          "Java, Spring Boot, MySQL, Docker, Kubernetes, AWS"
+        ],
+        "reasoning": "Candidate has 7 years of experience against the required 5+ years and matched 3 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Vikram Singh",
+        "resume_path": "resumes\\vikram_singh.txt",
+        "match_score": 28.33,
+        "matched_skills": [
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, FastAPI, PostgreSQL, Redis, Docker, AWS"
+        ],
+        "reasoning": "Candidate has 8 years of experience against the required 5+ years and matched 2 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Swetha R",
+        "resume_path": "resumes\\swetha_r.txt",
+        "match_score": 28.33,
+        "matched_skills": [
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, FastAPI, PostgreSQL, AWS, Docker"
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 5+ years and matched 2 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Sathish Kumar",
+        "resume_path": "resumes\\sathish_kumar.txt",
+        "match_score": 28.33,
+        "matched_skills": [
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Built REST APIs and deployed backend applications on AWS.",
+          "Python, Django, FastAPI, PostgreSQL, Docker, AWS"
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 5+ years and matched 2 of 6 required skills. Relevant resume sections: Projects, Skills."
+      },
+      {
+        "candidate_name": "Arun Kumar",
+        "resume_path": "resumes\\arun_kumar.txt",
+        "match_score": 28.33,
+        "matched_skills": [
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, Django, FastAPI, PostgreSQL, Docker, AWS, Git",
+          "Built scalable REST APIs and deployed microservices on AWS."
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 5+ years and matched 2 of 6 required skills. Relevant resume sections: Skills, Projects."
+      },
+      {
+        "candidate_name": "Vivek Shah",
+        "resume_path": "resumes\\vivek_shah.txt",
+        "match_score": 28.33,
+        "matched_skills": [
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Java, Spring Boot, PostgreSQL, Docker, AWS"
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 5+ years and matched 2 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Manoj Kumar",
+        "resume_path": "resumes\\manoj_kumar.txt",
+        "match_score": 28.33,
+        "matched_skills": [
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, Flask, PostgreSQL, Docker, AWS",
+          "5 years of experience developing Python web applications and APIs."
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 5+ years and matched 2 of 6 required skills. Relevant resume sections: Skills, Experience."
+      }
+    ],
+    "job_file": "devops_engineer.txt",
+    "latency_ms": 29.83
+  },
+  {
+    "job_description": "Full Stack Engineer\n\nWe are looking for a full stack engineer with 4+ years of experience.\n\nMust-have requirements:\n- React\n- Node.js\n- JavaScript\n- PostgreSQL\n- Docker\n- AWS",
+    "top_matches": [
+      {
+        "candidate_name": "Divya Menon",
+        "resume_path": "resumes\\divya_menon.txt",
+        "match_score": 64.7,
+        "matched_skills": [
+          "javascript",
+          "node.js",
+          "react",
+          "postgresql",
+          "aws"
+        ],
+        "relevant_excerpts": [
+          "React, JavaScript, TypeScript, Node.js, PostgreSQL, AWS",
+          "Developed React applications and Node.js backend services.",
+          "5 years of experience building modern frontend and full stack applications."
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 4+ years and matched 5 of 6 required skills. Relevant resume sections: Skills, Projects, Experience."
+      },
+      {
+        "candidate_name": "Aravind Kumar",
+        "resume_path": "resumes\\aravind_kumar.txt",
+        "match_score": 53.42,
+        "matched_skills": [
+          "javascript",
+          "node.js",
+          "react",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Developed scalable React and Node.js applications.",
+          "React, Node.js, JavaScript, MongoDB, Docker",
+          "4 years of experience developing full stack web applications."
+        ],
+        "reasoning": "Candidate has 4 years of experience against the required 4+ years and matched 4 of 6 required skills. Relevant resume sections: Projects, Skills, Experience."
+      },
+      {
+        "candidate_name": "Sneha Rao",
+        "resume_path": "resumes\\sneha_rao.txt",
+        "match_score": 48.96,
+        "matched_skills": [
+          "react",
+          "postgresql",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "4 years of experience developing full stack web applications using Python and React.",
+          "Python, Django, PostgreSQL, React, Docker",
+          "Built customer management applications using Django, React and PostgreSQL."
+        ],
+        "reasoning": "Candidate has 4 years of experience against the required 4+ years and matched 3 of 6 required skills. Relevant resume sections: Experience, Skills, Projects."
+      },
+      {
+        "candidate_name": "Nisha Thomas",
+        "resume_path": "resumes\\nisha_thomas.txt",
+        "match_score": 45.0,
+        "matched_skills": [
+          "javascript",
+          "node.js",
+          "react"
+        ],
+        "relevant_excerpts": [
+          "6 years of experience developing frontend and full stack applications.",
+          "JavaScript, React, Angular, TypeScript, Node.js"
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 4+ years and matched 3 of 6 required skills. Relevant resume sections: Experience, Skills."
+      },
+      {
+        "candidate_name": "Swetha R",
+        "resume_path": "resumes\\swetha_r.txt",
+        "match_score": 35.0,
+        "matched_skills": [
+          "postgresql",
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, FastAPI, PostgreSQL, AWS, Docker"
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 4+ years and matched 3 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Vikram Singh",
+        "resume_path": "resumes\\vikram_singh.txt",
+        "match_score": 35.0,
+        "matched_skills": [
+          "postgresql",
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, FastAPI, PostgreSQL, Redis, Docker, AWS"
+        ],
+        "reasoning": "Candidate has 8 years of experience against the required 4+ years and matched 3 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Manoj Kumar",
+        "resume_path": "resumes\\manoj_kumar.txt",
+        "match_score": 35.0,
+        "matched_skills": [
+          "postgresql",
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, Flask, PostgreSQL, Docker, AWS"
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 4+ years and matched 3 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Vivek Shah",
+        "resume_path": "resumes\\vivek_shah.txt",
+        "match_score": 35.0,
+        "matched_skills": [
+          "postgresql",
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Java, Spring Boot, PostgreSQL, Docker, AWS"
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 4+ years and matched 3 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Sathish Kumar",
+        "resume_path": "resumes\\sathish_kumar.txt",
+        "match_score": 35.0,
+        "matched_skills": [
+          "postgresql",
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, Django, FastAPI, PostgreSQL, Docker, AWS"
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 4+ years and matched 3 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Lakshmi Devi",
+        "resume_path": "resumes\\lakshmi_devi.txt",
+        "match_score": 35.0,
+        "matched_skills": [
+          "postgresql",
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, Django, FastAPI, PostgreSQL, AWS, Docker"
+        ],
+        "reasoning": "Candidate has 7 years of experience against the required 4+ years and matched 3 of 6 required skills. Relevant resume sections: Skills."
+      }
+    ],
+    "job_file": "full_stack_engineer.txt",
+    "latency_ms": 29.78
+  },
+  {
+    "job_description": "Machine Learning Engineer\n\nWe are looking for a machine learning engineer with 3+ years of experience.\n\nMust-have requirements:\n- Python\n- Machine Learning\n- PyTorch\n- TensorFlow\n- Scikit-learn\n- AWS\n\nExperience building production machine learning systems is preferred.",
+    "top_matches": [
+      {
+        "candidate_name": "Priya Sharma",
+        "resume_path": "resumes\\priya_sharma.txt",
+        "match_score": 67.9,
+        "matched_skills": [
+          "python",
+          "aws",
+          "machine learning",
+          "tensorflow",
+          "pytorch"
+        ],
+        "relevant_excerpts": [
+          "Python, Machine Learning, TensorFlow, PyTorch, Pandas, NumPy, AWS",
+          "5 years of experience building machine learning models and production ML pipelines.",
+          "Developed classification and prediction models using TensorFlow and PyTorch."
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 3+ years and matched 5 of 6 required skills. Relevant resume sections: Skills, Experience, Projects, Education."
+      },
+      {
+        "candidate_name": "Deepa Joseph",
+        "resume_path": "resumes\\deepa_joseph.txt",
+        "match_score": 57.94,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "tensorflow",
+          "pytorch"
+        ],
+        "relevant_excerpts": [
+          "Python, TensorFlow, PyTorch, Deep Learning, Machine Learning",
+          "7 years of experience in deep learning and artificial intelligence."
+        ],
+        "reasoning": "Candidate has 7 years of experience against the required 3+ years and matched 4 of 6 required skills. Relevant resume sections: Skills, Experience."
+      },
+      {
+        "candidate_name": "Harini S",
+        "resume_path": "resumes\\harini_s.txt",
+        "match_score": 55.04,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "tensorflow"
+        ],
+        "relevant_excerpts": [
+          "3 years of experience working on machine learning and data science projects.",
+          "Python, Machine Learning, TensorFlow, Pandas, SQL"
+        ],
+        "reasoning": "Candidate has 3 years of experience against the required 3+ years and matched 3 of 6 required skills. Relevant resume sections: Experience, Skills."
+      },
+      {
+        "candidate_name": "Neha Singh",
+        "resume_path": "resumes\\neha_singh.txt",
+        "match_score": 47.29,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "pytorch"
+        ],
+        "relevant_excerpts": [
+          "Python, PyTorch, Machine Learning, Deep Learning, LLM",
+          "6 years of experience in artificial intelligence and deep learning."
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 3+ years and matched 3 of 6 required skills. Relevant resume sections: Skills, Experience."
+      },
+      {
+        "candidate_name": "Meera Krishnan",
+        "resume_path": "resumes\\meera_krishnan.txt",
+        "match_score": 46.1,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "pytorch"
+        ],
+        "relevant_excerpts": [
+          "Python, PyTorch, Deep Learning, Machine Learning, NumPy"
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 3+ years and matched 3 of 6 required skills. Relevant resume sections: Skills."
+      },
+      {
+        "candidate_name": "Aakash Reddy",
+        "resume_path": "resumes\\aakash_reddy.txt",
+        "match_score": 45.96,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "pytorch"
+        ],
+        "relevant_excerpts": [
+          "4 years of experience developing AI and machine learning applications.",
+          "Python, LLM, Machine Learning, FastAPI, PyTorch, Docker"
+        ],
+        "reasoning": "Candidate has 4 years of experience against the required 3+ years and matched 3 of 6 required skills. Relevant resume sections: Experience, Skills."
+      },
+      {
+        "candidate_name": "Ishita Roy",
+        "resume_path": "resumes\\ishita_roy.txt",
+        "match_score": 45.0,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "scikit-learn"
+        ],
+        "relevant_excerpts": [
+          "5 years of experience in data science and predictive modeling.",
+          "Python, Pandas, NumPy, SQL, Machine Learning, Scikit-learn"
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 3+ years and matched 3 of 6 required skills. Relevant resume sections: Experience, Skills."
+      },
+      {
+        "candidate_name": "Ananya Iyer",
+        "resume_path": "resumes\\ananya_iyer.txt",
+        "match_score": 45.0,
+        "matched_skills": [
+          "python",
+          "machine learning",
+          "scikit-learn"
+        ],
+        "relevant_excerpts": [
+          "4 years of experience in data science and predictive analytics.",
+          "Python, Pandas, NumPy, SQL, Machine Learning, Scikit-learn"
+        ],
+        "reasoning": "Candidate has 4 years of experience against the required 3+ years and matched 3 of 6 required skills. Relevant resume sections: Experience, Skills."
+      },
+      {
+        "candidate_name": "Aditya Patel",
+        "resume_path": "resumes\\aditya_patel.txt",
+        "match_score": 38.73,
+        "matched_skills": [
+          "python",
+          "machine learning"
+        ],
+        "relevant_excerpts": [
+          "5 years of experience in data analytics and machine learning.",
+          "Python, SQL, Pandas, NumPy, Machine Learning"
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 3+ years and matched 2 of 6 required skills. Relevant resume sections: Experience, Skills."
+      },
+      {
+        "candidate_name": "Pooja Nair",
+        "resume_path": "resumes\\pooja_nair.txt",
+        "match_score": 38.33,
+        "matched_skills": [
+          "python",
+          "scikit-learn"
+        ],
+        "relevant_excerpts": [
+          "6 years of experience working in data science and analytics."
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 3+ years and matched 2 of 6 required skills. Relevant resume sections: Experience."
+      }
+    ],
+    "job_file": "machine_learning_engineer.txt",
+    "latency_ms": 29.65
+  },
+  {
+    "job_description": "Python Backend Engineer\n\nWe are looking for a backend engineer with 5+ years of experience.\n\nMust-have requirements:\n- Python\n- FastAPI\n- Django\n- PostgreSQL\n- Docker\n- AWS\n\nExperience with REST APIs and scalable backend systems is preferred.",
+    "top_matches": [
+      {
+        "candidate_name": "Sathish Kumar",
+        "resume_path": "resumes\\sathish_kumar.txt",
+        "match_score": 83.71,
+        "matched_skills": [
+          "python",
+          "django",
+          "fastapi",
+          "postgresql",
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, Django, FastAPI, PostgreSQL, Docker, AWS",
+          "5 years of experience developing Python backend applications.",
+          "Built REST APIs and deployed backend applications on AWS."
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 5+ years and matched 6 of 6 required skills. Relevant resume sections: Skills, Experience, Projects."
+      },
+      {
+        "candidate_name": "Lakshmi Devi",
+        "resume_path": "resumes\\lakshmi_devi.txt",
+        "match_score": 83.49,
+        "matched_skills": [
+          "python",
+          "django",
+          "fastapi",
+          "postgresql",
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, Django, FastAPI, PostgreSQL, AWS, Docker",
+          "7 years of experience developing Python backend systems.",
+          "Built scalable backend APIs and cloud-native applications."
+        ],
+        "reasoning": "Candidate has 7 years of experience against the required 5+ years and matched 6 of 6 required skills. Relevant resume sections: Skills, Experience, Projects."
+      },
+      {
+        "candidate_name": "Arun Kumar",
+        "resume_path": "resumes\\arun_kumar.txt",
+        "match_score": 82.47,
+        "matched_skills": [
+          "python",
+          "django",
+          "fastapi",
+          "postgresql",
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "6 years of experience developing backend applications and REST APIs using Python, Django and FastAPI.",
+          "Python, Django, FastAPI, PostgreSQL, Docker, AWS, Git"
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 5+ years and matched 6 of 6 required skills. Relevant resume sections: Experience, Skills."
+      },
+      {
+        "candidate_name": "Swetha R",
+        "resume_path": "resumes\\swetha_r.txt",
+        "match_score": 74.91,
+        "matched_skills": [
+          "python",
+          "fastapi",
+          "postgresql",
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, FastAPI, PostgreSQL, AWS, Docker",
+          "6 years of experience developing backend APIs with Python."
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 5+ years and matched 5 of 6 required skills. Relevant resume sections: Skills, Experience."
+      },
+      {
+        "candidate_name": "Vikram Singh",
+        "resume_path": "resumes\\vikram_singh.txt",
+        "match_score": 73.56,
+        "matched_skills": [
+          "python",
+          "fastapi",
+          "postgresql",
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, FastAPI, PostgreSQL, Redis, Docker, AWS",
+          "8 years of experience designing high-performance Python backend systems.",
+          "Designed scalable APIs and distributed backend services."
+        ],
+        "reasoning": "Candidate has 8 years of experience against the required 5+ years and matched 5 of 6 required skills. Relevant resume sections: Skills, Experience, Projects."
+      },
+      {
+        "candidate_name": "Sanjay Rao",
+        "resume_path": "resumes\\sanjay_rao.txt",
+        "match_score": 65.51,
+        "matched_skills": [
+          "python",
+          "fastapi",
+          "postgresql",
+          "aws"
+        ],
+        "relevant_excerpts": [
+          "Python, FastAPI, PostgreSQL, Redis, AWS",
+          "9 years of experience designing distributed backend systems."
+        ],
+        "reasoning": "Candidate has 9 years of experience against the required 5+ years and matched 4 of 6 required skills. Relevant resume sections: Skills, Experience."
+      },
+      {
+        "candidate_name": "Manoj Kumar",
+        "resume_path": "resumes\\manoj_kumar.txt",
+        "match_score": 54.98,
+        "matched_skills": [
+          "python",
+          "postgresql",
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "Python, Flask, PostgreSQL, Docker, AWS",
+          "5 years of experience developing Python web applications and APIs.",
+          "Developed Flask APIs and cloud applications."
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 5+ years and matched 4 of 6 required skills. Relevant resume sections: Skills, Experience, Projects."
+      },
+      {
+        "candidate_name": "Karthik Raj",
+        "resume_path": "resumes\\karthik_raj.txt",
+        "match_score": 29.25,
+        "matched_skills": [
+          "aws",
+          "docker"
+        ],
+        "relevant_excerpts": [
+          "6 years of experience working as a DevOps and cloud engineer."
+        ],
+        "reasoning": "Candidate has 6 years of experience against the required 5+ years and matched 2 of 6 required skills. Relevant resume sections: Experience."
+      },
+      {
+        "candidate_name": "Priya Sharma",
+        "resume_path": "resumes\\priya_sharma.txt",
+        "match_score": 28.33,
+        "matched_skills": [
+          "python",
+          "aws"
+        ],
+        "relevant_excerpts": [
+          "Python, Machine Learning, TensorFlow, PyTorch, Pandas, NumPy, AWS"
+        ],
+        "reasoning": "Candidate has 5 years of experience against the required 5+ years and matched 2 of 6 required skills. Relevant resume sections: Skills."
+      }
+    ],
+    "job_file": "python_backend_engineer.txt",
+    "latency_ms": 30.71
+  }
+]

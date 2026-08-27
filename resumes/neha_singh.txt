@@ -1,0 +1,14 @@
+Name
+Neha Singh
+
+Skills
+Python, PyTorch, Machine Learning, Deep Learning, LLM
+
+Experience
+6 years of experience in artificial intelligence and deep learning.
+
+Education
+M.Tech Artificial Intelligence
+
+Projects
+Developed deep learning and LLM-based AI solutions.

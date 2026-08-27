@@ -1,0 +1,14 @@
+Name
+Deepa Joseph
+
+Skills
+Python, TensorFlow, PyTorch, Deep Learning, Machine Learning
+
+Experience
+7 years of experience in deep learning and artificial intelligence.
+
+Education
+Ph.D. Artificial Intelligence
+
+Projects
+Developed neural network models for image and text processing.
