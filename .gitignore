@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 chroma_db/
 .ipynb_checkpoints/
+Graphviz/
